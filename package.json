@@ -22,7 +22,7 @@
         "bootstrap-vue": "^2.0.0-rc.11",
         "cnc-vue-jstree": "^1.0.15",
         "handlebars": "^4.0.12",
-        "jspdf": "^1.4.1",
+        "jspdf": "^2.5.1",
         "jspdf-autotable": "^2.3.5",
         "laravel-echo": "^1.5.2",
         "mdbootstrap": "^4.5.14",
